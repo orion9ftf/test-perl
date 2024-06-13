@@ -20,5 +20,5 @@ Uso:
 perl email_searcher.pl <tu_email> <directorio>
 ```
 
-*** Reemplaza <tu_email> con tu dirección de correo electrónico y <directorio> con la ruta del directorio donde deseas buscar. ***
+***Reemplaza <tu_email> con tu dirección de correo electrónico y <directorio> con la ruta del directorio donde deseas buscar.***
 
