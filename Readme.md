@@ -12,3 +12,13 @@ Uso:
 perl port_scanner.pl [IP o sitio web]
 ```
 
+
+## Programa pa buscar por email:
+
+Uso:
+```sh
+perl email_searcher.pl <tu_email> <directorio>
+```
+
+*** Reemplaza <tu_email> con tu dirección de correo electrónico y <directorio> con la ruta del directorio donde deseas buscar. ***
+
