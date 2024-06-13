@@ -13,7 +13,7 @@ perl port_scanner.pl [IP o sitio web]
 ```
 
 
-## Programa pa buscar por email:
+## Programa para buscar por email:
 
 Uso:
 ```sh
