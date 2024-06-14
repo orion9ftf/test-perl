@@ -9,7 +9,7 @@ cpan IO::Socket
 
 Uso:
 ```sh
-perl port_scanner.pl [IP o sitio web]
+perl open-ports.pl [IP o sitio web]
 ```
 
 
@@ -17,7 +17,7 @@ perl port_scanner.pl [IP o sitio web]
 
 Uso:
 ```sh
-perl email_searcher.pl <tu_email> <directorio>
+perl search-photo.pl <tu_email> <directorio>
 ```
 
 ***Reemplaza <tu_email> con tu dirección de correo electrónico y <directorio> con la ruta del directorio donde deseas buscar.***
@@ -26,7 +26,7 @@ perl email_searcher.pl <tu_email> <directorio>
 
 Para el script de Perl:
 ```sh
-chmod +x search_people.pl
+chmod +x search-photo.pl
 ```
 
 Asegúrate de que el script de Python tenga el permiso de ejecución si lo necesita:
