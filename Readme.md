@@ -22,3 +22,29 @@ perl email_searcher.pl <tu_email> <directorio>
 
 ***Reemplaza <tu_email> con tu dirección de correo electrónico y <directorio> con la ruta del directorio donde deseas buscar.***
 
+#### Buscar por foto:
+
+Para el script de Perl:
+```sh
+chmod +x search_people.pl
+```
+
+Asegúrate de que el script de Python tenga el permiso de ejecución si lo necesita:
+```sh
+chmod +x search-photo.py
+```
+
+Navega al directorio donde están almacenados los scripts y proporciona la ruta de la imagen y las URLs que deseas escanear. Por ejemplo:
+
+```sh
+perl search-photo.pl ruta_de_imagen url1 url2 url3 ...
+```
+
+Ejemplo:
+
+```sh
+perl search-photo.pl mi_foto.jpg https://example.com/image1.jpg https://example.com/image2.jpg https://example.com/image3.jpg
+```
+
+Siguiendo estos pasos, puedes ejecutar ambos programas de manera simultánea para buscar personas en sitios web utilizando reconocimiento facial.
+
